@@ -1,3 +1,7 @@
+# Svelte Crash Project 🚀
+
+A lightweight, high-performance web application built while learning the core concepts of **Svelte**. This project demonstrates reactive state management, component-driven architecture, and efficient data binding.
+
 Svelte is a compiler-first front-end framework that turns component code into small, optimized vanilla JavaScript at build time instead of running heavy operations in the user's browser.How Svelte WorksNo Virtual DOM: Traditional frameworks like React use a virtual DOM to diff and update elements at runtime. 
 
 Svelte uses a compiler to directly manipulate the Document Object Model (DOM) when data changes.Disappearing Framework: 
@@ -7,10 +11,6 @@ The framework code largely compiles away before production. This leads to smalle
 Modern versions use explicit reactive declarations like $state, $derived, and $effect to track data dependencies cleanly.Svelte vs. SvelteKitSvelte: The core UI component framework.SvelteKit: The full-stack application framework built on top of Svelte. 
 It adds file-based routing, server-side rendering (SSR), and data loading out of the box.
 
-
-# Svelte Crash Project 🚀
-
-A lightweight, high-performance web application built while learning the core concepts of **Svelte**. This project demonstrates reactive state management, component-driven architecture, and efficient data binding.
 
 ## 🛠️ Features
 
